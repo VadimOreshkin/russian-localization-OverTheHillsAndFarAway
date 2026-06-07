@@ -1,0 +1,64 @@
+# OS generated files
+.DS_Store
+
+.DS_Store?
+
+._*
+
+.Spotlight-V100
+
+.Trashes
+
+ehthumbs.db
+
+Thumbs.db
+
+*.tmp
+
+desktop.ini
+
+# Editor files
+
+*.swp
+
+*.swo
+
+*~
+
+.idea/
+
+.vscode/
+
+*.sublime-*
+
+# Ren'Py compilation cache (if any)
+
+*.rpyc
+
+__pycache__/
+
+*.pyc
+
+# Archive files (you don't want to commit zip/rar)
+
+*.zip
+
+*.rar
+
+*.7z
+
+*.tar.gz
+
+# Temporary and log files
+
+*.log
+
+*.bak
+
+*.old
+
+# Your local test files (if you create any)
+
+test/
+
+temp/
